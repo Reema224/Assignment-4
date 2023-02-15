@@ -1,0 +1,169 @@
+body{
+    background-color: #C3B1E1;
+}
+.head {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #434040;
+}
+
+li a {
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 22px
+}
+li a:hover {
+    background-color: #4566eb;
+}
+.icon {
+    width: 40px;
+    height: 40px;
+    padding: 14px 16px;
+    float: left;
+
+}
+.demo {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 20px;
+    float: left;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.intro{
+    color: rgb(38, 21, 95);
+    margin-left: 35px;
+}
+.image{
+   
+    height: 320px;
+    padding: 0;
+    margin: -18px;
+    background-image: url("https://freerangestock.com/sample/113049/coding-and-programming--computer-science-and-it.jpg");
+   
+}
+.text{
+    color: rgb(17, 17, 19);
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+#div1 {
+        float: left;
+        width: 30%;
+        height: 300px;
+        margin-left: 35px;
+        background-image: url("https://pbs.twimg.com/profile_images/613636334356459520/qVr_MxvA_400x400.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: cover;
+}
+
+#div2 { 
+       
+        float: left;
+        width: 25%;
+        height: 300px;
+        margin-left: 68px;
+        margin-right: 48px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: cover;
+        background-image: url("datacamp.PNG")
+        
+}
+
+#div3 {
+        float: right;
+        width: 30%;
+        height: 300px;
+        margin-right: 35px;
+        background-image: url("https://miro.medium.com/max/780/0*w8iLphjaPpk2Q1th.png");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: cover;
+    }
+
+.container{
+    margin-bottom: 100px;
+   
+}
+
+.div4 {
+        float: left;
+        width: 30%;
+        height: 300px;
+        margin-left: 35px;
+    }
+    
+.div5 {
+    
+        float: left;
+        width: 25%;
+        height: 300px;
+        margin-left: 68px;
+        margin-right: 48px;
+      
+    }
+    
+.div6 {
+        float: right;
+        width: 30%;
+        height: 300px;
+        margin-right: 35px;
+    }
+    .title{
+        color: rgb(38, 21, 95);
+        margin-left: 35px;
+        font-size: 26px;
+    }
+    .text1 {
+            color: rgb(17, 17, 19);
+            margin: 35px;
+            font-size: 20px;
+    }
+
+
+    #div7 {
+        float: left;
+        width: 30%;
+        height: 300px;
+        margin-left: 35px;
+        background-image: url("https://yt3.googleusercontent.com/QHSRlsZ1dd73aFXa-tvXXKaLLMKT_oN_yt5AJD1P0JPaLRbY57vxd4OiySpqRnHeVLpTHDbY3A=s900-c-k-c0x00ffffff-no-rj");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: cover;
+        }
+    
+    #div8 {
+    
+        float: left;
+        width: 25%;
+        height: 300px;
+        margin-left: 68px;
+        margin-right: 48px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: cover;
+        background-image: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png")
+    }
+    
+        #div9 {
+        float: right;
+        width: 30%;
+        height: 300px;
+        margin-right: 35px;
+        background-image: url("https://pbs.twimg.com/profile_images/1276770212927410176/qTgTIejk_400x400.jpg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-size: cover;
+    }
+    .youtube{
+        margin-left: 35px;
+    }
